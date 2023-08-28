@@ -1,0 +1,11 @@
+start new project:
+  # yarn create expo-app name-app -t expo-template-blank-typescript
+
+install styled components:
+  # yarn add styled-components
+
+install types styled components (need install styled-components-react-native):
+  # yarn add -D @types/styled-components @types/styled-components-react-native
+
+Para utilizar svg em react native é preciso instalar o react-native-svg (instalar com o expo)
+  # yarn expo install react-native-svg
