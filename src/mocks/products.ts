@@ -22,6 +22,36 @@ export const products = [
         _id: '6372e040f52e37ef85fe2c61'
       },
       {
+        name: 'Parmesão',
+        icon: '🧀',
+        _id: '6372e040f52e37e876786f85fe2c60'
+      },
+      {
+        name: 'Gouda',
+        icon: '🧀',
+        _id: '6372e040f52e37ehhuuhf85fe2c61'
+      },
+      {
+        name: 'Parmesão',
+        icon: '🧀',
+        _id: '6372e040f52e30987ef85fe2c60'
+      },
+      {
+        name: 'Gouda',
+        icon: '🧀',
+        _id: '6372e040f52e234637ef85fe2c61'
+      },
+      {
+        name: 'Parmesão',
+        icon: '🧀',
+        _id: '6372e040f52e37ef546yhg85fe2c60'
+      },
+      {
+        name: 'Gouda',
+        icon: '🧀',
+        _id: '6372e040f52e37ef85f0978uhgge2c61'
+      },
+      {
         name: 'Brie',
         icon: '🧀',
         _id: '6372e040f52e37ef85fe2c62'
